@@ -3,9 +3,19 @@
     <string name="app_title">BMI CALCULATOR</string>
     <string name="weight">Your weight in kg</string>
     <string name="height">Your height in cm</string>
+
     <string name="calculate">CALCULATE</string>
     <string name="your_score">Your Score</string>
     <string name="reset">RESET</string>
     <string name="share">SHARE</string>
+
+    <string name="weight_error">Weight is required</string>
+    <string name="height_error">Height is required</string>
+
+    <string name="weight_under">Under weight</string>
+    <string name="weight_ideal">Ideal weight</string>
+    <string name="weight_overweight">Overweight</string>
+    <string name="weight_Obesity">Obesity</string>
+
 
 </resources>
